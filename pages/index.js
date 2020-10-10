@@ -1,5 +1,5 @@
-import { useRouter } from "next/router";
-import useFetch from "usefetch";
+import { useRouter } from 'next/router';
+import useFetch from 'usefetch';
 
 export default function Index(props) {
   const router = useRouter();
